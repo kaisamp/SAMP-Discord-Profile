@@ -4,17 +4,17 @@
 	|    |  /   \  ___  \/  |       _/|     ___/
 	|    |__\    \_\  \ /\  |    |   \|    |    
 	|_______ \______  / \/  | ___|___/|____|
-					\/      \/   
-                 Legacy Roleplay       
-         Legacy Gaming Development Team
+			\/      \/   
+                     Legacy Roleplay       
+              Legacy Gaming Development Team
          
 
-             Disccord Profile System
-             Created By: Genjii#4764
+                 Disccord Profile System
+                 Created By: Genjii#4764
 
-              MySQL Version: R39-6
+                  MySQL Version: R39-6
 
-             Developed: 12/19/2020
+                 Developed: 12/19/2020
 
 */
 
