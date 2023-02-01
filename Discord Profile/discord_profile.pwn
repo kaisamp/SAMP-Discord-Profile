@@ -4,7 +4,10 @@
 	|    |  /   \  ___  \/  |       _/|     ___/
 	|    |__\    \_\  \ /\  |    |   \|    |    
 	|_______ \______  / \/  | ___|___/|____|
-					\/      \/          
+					\/      \/   
+                 Legacy Roleplay       
+         Legacy Gaming Development Team
+         
 
              Disccord Profile System
              Created By: Genjii#4764
